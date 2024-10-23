@@ -1,18 +1,18 @@
-# Oi, eu sou o Thiago Tolotti 👋
+# Hello, I'm Thiago Tolotti 👋
   
 <br/>
+
+![English](https://flagsapi.com/US/flat/32.png)
+
+A frontend developer with a background in design. I’m passionate about what I do and with a curiosity that always leads me to build new things and learn more each day.
+Currently I’m looking for positions that allow me to continue learning while also delivering value through my work.
+Let’s talk?
 
 ![Portuguese](https://flagsapi.com/BR/flat/32.png)
 
 Um desenvolvedor frontend e designer apaixonado pelo que faço e guiado por uma curiosidade de sempre aprender mais. Minha trajetória profissional é marcada por experiências focadas e profundas de aprendizado.
 Atualmente o meu maior propósito é estar em posições que me permitam aprender mais enquanto entrego valor, em especial no desenvolvimento frontend.
 Vamos conversar?
-
-![English](https://flagsapi.com/US/flat/32.png)
-
-A frontend developer and designer passionate about what I do and driven by a curiosity to always learn more. My professional trajectory is marked by focused and in-depth learning experiences.
-Currently my biggest purpose is to be in positions that allow me to improve my skills while delivering value, especially in frontend development.
-Let’s talk?
 
 <br/>
 
@@ -23,9 +23,12 @@ Let’s talk?
 ![Jest](https://img.shields.io/badge/-Jest-000?&logo=jest&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma&style=for-the-badge)
 ![Node](https://img.shields.io/badge/-Node.js-000?&logo=nodedotjs&style=for-the-badge)
+![Express](https://img.shields.io/badge/-Express-000?&logo=express&style=for-the-badge)
 ![Tailwind](https://img.shields.io/badge/-tailwind-000?&logo=tailwindcss&style=for-the-badge)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-000?&logo=adobeillustrator&style=for-the-badge)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-000?&logo=adobephotoshop&style=for-the-badge)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&style=for-the-badge)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=html&style=for-the-badge)
 
 <br/>
 
