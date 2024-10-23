@@ -28,7 +28,7 @@ Vamos conversar?
 ![Illustrator](https://img.shields.io/badge/-Illustrator-000?&logo=adobeillustrator&style=for-the-badge)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-000?&logo=adobephotoshop&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&style=for-the-badge)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=html&style=for-the-badge)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5&style=for-the-badge)
 
 <br/>
 
