@@ -2,15 +2,17 @@
   
 <br/>
 
-I’m a Brazilian and Italian developer with a background in design and a strong interest in frontend and fullstack engineering.
+I’m a frontend developer with a background in design, working in web development since late 2020. 
 
-I’ve been working with web technologies since 2020 and currently lead the frontend development of two core products at Riole — a videoconferencing web app and a legislative process management platform.
+Over the last two years I’ve developed several applications, mainly a videoconferencing platform and a legislative process management system.
 
-I’m currently studying Agile Software Development at the postgraduate level and expanding my backend skills with Node.js and Go.
+I’m currently in a postgraduate program in Agile Software Development and building a personal delivery project to improve my technical and product-building skills. 
+
+I also have a Brazilian-Italian dual citizenship.
 
 <br/>
 
 ## Contact
 
-[![email](https://img.shields.io/badge/-email-000?&logo=gmail&style=social)](mailto:thiagotolotti@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-000?&logo=linkedin&style=social)](https://www.linkedin.com/in/thiago-tolotti/)
+[![email](https://img.shields.io/badge/-email-000?&logo=gmail)](mailto:thiagotolotti@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-000)](https://www.linkedin.com/in/thiago-tolotti/)
