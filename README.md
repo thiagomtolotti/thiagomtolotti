@@ -6,37 +6,40 @@
   
 <br/>
 
-I’m a frontend developer working in web development since 2020. Over the last three years I’ve worked in core web applications, mainly a videoconferencing platform and a legislative process management system. 
+I’m a Full Stack Developer with 3+ years of experience building production-grade web applications, specializing in React, TypeScript, Next.js, Python (FastAPI, Flask), Node.js, and PostgreSQL. 
 
-I also have a background as a web designer, where I developed hotsites, landing pages and even a newsletter system while also designing interfaces and user experiences.
+My work spans critical real-time and enterprise systems, including a videoconferencing platform, a legislative ERP, and access-controlled applications using Keycloak and RBAC. I also leverage a solid background in UI/UX Design, focusing on accessibility (WCAG), usability, and scalable design systems.
 
-I’m currently in a postgraduate program in Agile Software Development and developing a personal delivery project to improve my technical and product-building skills.
+I hold a postgraduate degree in Agile Software Development (UFPR) and actively build and deploy full-stack projects to my own VPS infrastructure to continuously refine my expertise in backend systems, software architecture, and DevOps.
 
 <br/>
 
 🇧🇷
 
-Sou um desenvolvedor frontend trabalhando com desenvolvimento web desde 2020. Nos últimos três anos trabalhei em diversas aplicações, com destaque para um sistema de videoconferências e um sistema de gerenciamento de processos legislativos.
+Sou Desenvolvedor Full Stack com mais de 3 anos de experiência na criação de aplicações web em produção, com foco em React, TypeScript, Next.js, Python (FastAPI, Flask), Node.js e PostgreSQL.
 
-Também possuo background como web designer, onde eu desenvolvi hotsites, landing pages e até um sistema de newsletters, também desenvolvi interfaces e experiências de usuário nesse período.
+Minha trajetória abrange sistemas críticos em tempo real e soluções corporativas, incluindo uma plataforma de videoconferência, um ERP legislativo e aplicações com controle de acesso via Keycloak e RBAC. Também trago uma forte bagagem em Design UI/UX, com foco em acessibilidade (WCAG), usabilidade e design systems.
 
-Atualmente faço uma pós-graduação em Desenvolvimento Ágil de Software e estou construindo um sistema de delivery como projeto pessoal buscando melhorar minhas habilidades profissionais.
+Sou pós-graduado em Desenvolvimento Ágil de Software pela UFPR e desenvolvo e implanto projetos full-stack em VPS própria para aprimorar continuamente minhas habilidades em backend, arquitetura e infraestrutura.
 
 <br/>
 
 ## Skills
 
 #### Frontend
+React · Next.js · TypeScript · JavaScript · Redux · Context API · SvelteKit · Tailwind CSS · Styled Components · Material UI (MUI) · Jest · Vitest · React Testing Library · Vite · HTML5/CSS3
 
-React · Next.js · TypeScript · JavaScript ·  Redux · Context API · Tailwind CSS · Styled Components · Jest · React Testing Library · Vite · HTML/CSS 
+#### Backend & Database
+Python (FastAPI, Flask) · Node.js (Express, NestJS) · Go (Golang) · REST APIs · PostgreSQL · MySQL / MariaDB · SQLite · SQL Server · MongoDB · DynamoDB · Keycloak / RBAC
 
-#### UI/UX Design
+#### DevOps & Quality Assurance
+Git · Docker · Linux/VPS Hosting · CI/CD (GitLab Pipelines, GitHub Actions) · AWS (S3, EC2, DynamoDB) · Pytest · LambdaTest / TestMu AI
 
-Design Systems · UX Research · User Testing · Accessibility · Figma · Responsive UI 
+#### Architecture & Design
+Clean Architecture · Domain-Driven Design (DDD) · Design Patterns · Microservices · System Modeling · UML Diagrams · Agile (Scrum)
 
-#### Other
-
-Node.js · SQL · Git · Docker · CI/CD · AWS · Software modelling · UML Diagrams · Agile (Scrum) · Domain-Driven Design (DDD) · Design Patterns
+#### UI/UX & Graphic Design
+Design Systems · UX Research · User Testing · Accessibility (WCAG) · Figma · Responsive UI · Adobe Creative Suite (Illustrator, Photoshop, InDesign)
 
 <br/>
 
